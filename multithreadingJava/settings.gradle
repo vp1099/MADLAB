@@ -1,0 +1,2 @@
+rootProject.name = "multithreadingJava"
+include ':app'
