@@ -1,4 +1,0 @@
-#Fri Oct 29 19:57:36 IST 2021
-base.0=C\:\\Users\\srira\\Desktop\\work\\clg\\madlab\\shapes_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
